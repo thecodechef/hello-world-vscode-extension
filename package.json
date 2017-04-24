@@ -2,7 +2,7 @@
     "name": "hello-world-vscode-extension",
     "displayName": "Hello World",
     "description": "A Simple Hello World Extension.",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "cyberchefjay",
     "engines": {
         "vscode": "^1.11.0"
