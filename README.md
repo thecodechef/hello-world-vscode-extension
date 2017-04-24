@@ -1,4 +1,5 @@
-# hello-world-vscode-extension README
+[![Github All Releases](https://img.shields.io/github/downloads/thecodechef/hello-world-vscode-extension/total.svg?style=flat-square)](https://www.github.com/thecodechef/hello-world-vscode-extension/releases)
+# README
 
 This is the README for your extension "hello-world-vscode-extension". After writing up a brief description, we recommend including the following sections.
 
