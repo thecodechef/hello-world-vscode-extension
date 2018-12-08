@@ -3,6 +3,8 @@
 [![VS Marketplace rating][vs_marketplace-rating-image]]([vs_marketplace-ext-url])
 # README
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/thecodechef/hello-world-vscode-extension.svg)](https://greenkeeper.io/)
+
 > A Simple Hello World Extension.
 
 -----------------------------------------------------------------------------------------------------------
